@@ -1,0 +1,23 @@
+{
+  "name": "com.hooran.Patterns",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "displayName": "Patterns",
+  "description": "Collection of usfull development patterns.",
+  "keywords": [
+    "patterns"
+  ],
+  "category": "2D",
+ "samples": [
+    {
+      "displayName": "Pooling System Sample",
+      "description": "Pooling System Sample",
+      "path": "Samples~/Pooling System Sample"
+    },
+    {
+      "displayName": "Singleton Sample",
+      "description": "Singleton Sample",
+      "path": "Samples~/Singleton Sample"
+    }
+  ]
+}

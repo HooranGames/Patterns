@@ -1,0 +1,16 @@
+{
+    "name": "Hooran.Patterns.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5ac869e9733f48249b6ae7746c429cfc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Hooran.Patterns.Samples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5ac869e9733f48249b6ae7746c429cfc",
+        "GUID:540840f62c8a6d745a35f42ed6a4e7b7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
