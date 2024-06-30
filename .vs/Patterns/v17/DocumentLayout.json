@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lonard\\Documents\\Patterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBE2142-7464-74E5-2613-1E58413210F8}|Hooran.Patterns.Tests.csproj|c:\\users\\lonard\\documents\\patterns\\assets\\tests\\runtime\\polling system\\poolhelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBE2142-7464-74E5-2613-1E58413210F8}|Hooran.Patterns.Tests.csproj|solutionrelative:assets\\tests\\runtime\\polling system\\poolhelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBE2142-7464-74E5-2613-1E58413210F8}|Hooran.Patterns.Tests.csproj|C:\\Users\\lonard\\Documents\\Patterns\\assets\\tests\\runtime\\polling system\\pooltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBE2142-7464-74E5-2613-1E58413210F8}|Hooran.Patterns.Tests.csproj|solutionrelative:assets\\tests\\runtime\\polling system\\pooltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5649A5-1C16-AB8A-5C84-EAAE66F71EA5}|Hooran.Patterns.Runtime.csproj|c:\\users\\lonard\\documents\\patterns\\assets\\runtime\\pooling system\\ipoolable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5649A5-1C16-AB8A-5C84-EAAE66F71EA5}|Hooran.Patterns.Runtime.csproj|solutionrelative:assets\\runtime\\pooling system\\ipoolable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBE2142-7464-74E5-2613-1E58413210F8}|Hooran.Patterns.Tests.csproj|C:\\Users\\lonard\\Documents\\Patterns\\assets\\tests\\runtime\\singleton\\singletonmonobehaviourtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBE2142-7464-74E5-2613-1E58413210F8}|Hooran.Patterns.Tests.csproj|solutionrelative:assets\\tests\\runtime\\singleton\\singletonmonobehaviourtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBE2142-7464-74E5-2613-1E58413210F8}|Hooran.Patterns.Tests.csproj|C:\\Users\\lonard\\Documents\\Patterns\\assets\\tests\\runtime\\singleton\\singletontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBE2142-7464-74E5-2613-1E58413210F8}|Hooran.Patterns.Tests.csproj|solutionrelative:assets\\tests\\runtime\\singleton\\singletontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPoolable.cs",
+              "DocumentMoniker": "C:\\Users\\lonard\\Documents\\Patterns\\Assets\\Runtime\\Pooling System\\IPoolable.cs",
+              "RelativeDocumentMoniker": "Assets\\Runtime\\Pooling System\\IPoolable.cs",
+              "ToolTip": "C:\\Users\\lonard\\Documents\\Patterns\\Assets\\Runtime\\Pooling System\\IPoolable.cs",
+              "RelativeToolTip": "Assets\\Runtime\\Pooling System\\IPoolable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:25:34.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PoolTests.cs",
+              "DocumentMoniker": "C:\\Users\\lonard\\Documents\\Patterns\\Assets\\Tests\\Runtime\\Polling System\\PoolTests.cs",
+              "RelativeDocumentMoniker": "Assets\\Tests\\Runtime\\Polling System\\PoolTests.cs",
+              "ToolTip": "C:\\Users\\lonard\\Documents\\Patterns\\Assets\\Tests\\Runtime\\Polling System\\PoolTests.cs",
+              "RelativeToolTip": "Assets\\Tests\\Runtime\\Polling System\\PoolTests.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwCcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:35:46.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PoolHelperTests.cs",
+              "DocumentMoniker": "C:\\Users\\lonard\\Documents\\Patterns\\Assets\\Tests\\Runtime\\Polling System\\PoolHelperTests.cs",
+              "RelativeDocumentMoniker": "Assets\\Tests\\Runtime\\Polling System\\PoolHelperTests.cs",
+              "ToolTip": "C:\\Users\\lonard\\Documents\\Patterns\\Assets\\Tests\\Runtime\\Polling System\\PoolHelperTests.cs",
+              "RelativeToolTip": "Assets\\Tests\\Runtime\\Polling System\\PoolHelperTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:35:32.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SingletonTest.cs",
+              "DocumentMoniker": "C:\\Users\\lonard\\Documents\\Patterns\\Assets\\Tests\\Runtime\\Singleton\\SingletonTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Tests\\Runtime\\Singleton\\SingletonTest.cs",
+              "ToolTip": "C:\\Users\\lonard\\Documents\\Patterns\\Assets\\Tests\\Runtime\\Singleton\\SingletonTest.cs",
+              "RelativeToolTip": "Assets\\Tests\\Runtime\\Singleton\\SingletonTest.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:34:42.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SingletonMonoBehaviourTest.cs",
+              "DocumentMoniker": "C:\\Users\\lonard\\Documents\\Patterns\\Assets\\Tests\\Runtime\\Singleton\\SingletonMonoBehaviourTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Tests\\Runtime\\Singleton\\SingletonMonoBehaviourTest.cs",
+              "ToolTip": "C:\\Users\\lonard\\Documents\\Patterns\\Assets\\Tests\\Runtime\\Singleton\\SingletonMonoBehaviourTest.cs",
+              "RelativeToolTip": "Assets\\Tests\\Runtime\\Singleton\\SingletonMonoBehaviourTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:33:43.041Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
