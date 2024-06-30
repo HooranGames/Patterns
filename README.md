@@ -8,7 +8,7 @@ Including :
 
  dependencies:
 
-    "com.hooran.PrettyHierarchy": "1.0.1"
+    "com.hooran.prettyhierarchy": "1.0.1"
 
 Samples are available.
 
