@@ -2,9 +2,9 @@ This is a collection of usefull development patterns.
 
 Including : 
 
- - pooling system
- - singleton pattern
- - Scriptable observer pattern
+ - Pooling system
+ - Singleton pattern
+ - Scriptable Object observer pattern
 
  dependencies:
 
