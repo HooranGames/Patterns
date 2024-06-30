@@ -9,6 +9,6 @@
     "name": "Amir Hossein Izadnia"
   },
     "dependencies": {
-      "com.hooran.prettyhierarchy": "https://github.com/HooranGames/PrettyHierarchy.git"
+      "com.hooran.prettyhierarchy"
   }
 }
