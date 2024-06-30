@@ -4,6 +4,7 @@ Including :
 
  - pooling system
  - singleton pattern
+ - Scriptable observer pattern
 
  dependencies:
 
