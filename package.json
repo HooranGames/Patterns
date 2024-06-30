@@ -9,5 +9,6 @@
     "name": "Amir Hossein Izadnia"
   },
     "dependencies": {
+      "com.hooran.PrettyHierarchy": "1.0.1"
   }
 }
