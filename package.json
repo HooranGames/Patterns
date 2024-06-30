@@ -9,6 +9,6 @@
     "name": "Amir Hossein Izadnia"
   },
     "dependencies": {
-
+      "com.unity.test-framework": "1.4.4"
   }
 }
