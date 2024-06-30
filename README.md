@@ -10,4 +10,6 @@ Including :
 
     "com.hooran.PrettyHierarchy": "1.0.1"
 
+Samples are available.
+
 install this from Unity PackageManager.
