@@ -5,4 +5,8 @@ Including :
  - pooling system
  - singleton pattern
 
+ dependencies:
+
+    "com.hooran.PrettyHierarchy": "1.0.1"
+
 install this from Unity PackageManager.
