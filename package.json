@@ -9,6 +9,7 @@
     "name": "Amir Hossein Izadnia"
   },
     "dependencies": {
-      "com.unity.test-framework": "1.4.4"
+      "com.unity.test-framework": "1.4.4",
+      "com.hooran.prettyhierarchy" : "1.0.1"
   }
 }
